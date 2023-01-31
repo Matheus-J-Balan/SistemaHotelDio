@@ -1,0 +1,15 @@
+C:\xampp\htdocs\SistemaHotelDio\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+C:\xampp\htdocs\SistemaHotelDio\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+C:\xampp\htdocs\SistemaHotelDio\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\xampp\htdocs\SistemaHotelDio\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\xampp\htdocs\SistemaHotelDio\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\xampp\htdocs\SistemaHotelDio\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+C:\xampp\htdocs\SistemaHotelDio\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\SistemaHotelDio\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\xampp\htdocs\SistemaHotelDio\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\xampp\htdocs\SistemaHotelDio\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\SistemaHotelDio\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\xampp\htdocs\SistemaHotelDio\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+C:\xampp\htdocs\SistemaHotelDio\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\xampp\htdocs\SistemaHotelDio\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\xampp\htdocs\SistemaHotelDio\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
